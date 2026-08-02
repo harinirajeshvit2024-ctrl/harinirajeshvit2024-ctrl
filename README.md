@@ -1,6 +1,6 @@
 Hi, I'm Harini Rajesh
 
-I'm a third-year CSE student at VIT, mostly into data science and machine learning. I like building things that actually help people, especially in healthcare.
+I'm a third-year CSE student at VIT, mostly into data science and machine learning. I like building things that actually help people.
 
 Here are a few projects I've worked on.
 
